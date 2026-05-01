@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Doi (Dio)</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=B000F7&center=true&vCenter=true&width=500&height=80&lines=Hi+%F0%9F%91%8B%2C+I%E2%80%99m+Doi+(Dio)" alt="Dio" /></a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=doi2523&label=Profile%20views&color=0e75b6&style=flat" alt="doi2523" />
