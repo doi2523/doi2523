@@ -12,7 +12,7 @@
 
 ---
 
-- 🔭 I’m currently working on [locketpro](https://github.com/doi2523/locket-dio-FE)  
+- 🔭 I’m currently working on [Locket Dio](https://github.com/doi2523/Client-Locket-Dio)  
 - 🌱 I’m currently learning **JavaScript**  
 - 💬 Ask me about **React**  
 - 📫 Reach me at **doibncm2003@gmail.com**
