@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=doi2523&margin-w=10" alt="Trophies" />
+  <a href="https://ghstats.dev">
+    <img src="https://ghstats.dev/api/card?username=octocat&theme=tokyonight" alt="GitHub Stats Card" />
   </a>
 </p>
 
