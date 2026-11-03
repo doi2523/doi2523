@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://ghstats.dev">
-    <img src="https://ghstats.dev/api/card?username=octocat&theme=tokyonight" alt="GitHub Stats Card" />
+    <img src="https://ghstats.dev/api/card?username=doi2523&theme=tokyonight" alt="GitHub Stats Card" />
   </a>
 </p>
 
